@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="pope">37e406071b9f601089cb6575624bcb7c</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-08 10:08:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b31506071b9f601089cb6575624bcb99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>37e406071b9f601089cb6575624bcb7c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_602283_wish_list">db0186cf1b5f601089cb6575624bcb15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">db0186cf1b5f601089cb6575624bcb15</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_b31506071b9f601089cb6575624bcb99</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-08 10:08:13</sys_updated_on>
+        <tab display_value="pope - New Tab">fb1506071b9f601089cb6575624bcb96</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
